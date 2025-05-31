@@ -8,7 +8,7 @@ Este repositório organiza meus principais projetos, divididos por níveis de co
 
 ## 👶 Projetos Iniciantes
 
-- [📊 Dashboard de Vendas com Power BI](projetos/iniciante/dashboard-powerbi-vendas/README.md)
+- [📊 Dashboard de Vendas com Power BI](projetos/iniciante/dashboard-powerbi-vendas)
 > Visualização interativa de vendas por região, produto e vendedor. Base fictícia simulando uma empresa comercial.
 
 - Power BI, DAX, Modelagem de dados
