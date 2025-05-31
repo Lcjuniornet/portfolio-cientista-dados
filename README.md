@@ -16,7 +16,7 @@ Este repositório organiza meus principais projetos, divididos por níveis de co
 - Excel como fonte de dados
 
 ---
-- [🚢 Análise dos Dados do Titanic](projetos/iniciante/analise-dados-titanic/README.md)
+- [🚢 Análise dos Dados do Titanic](projetos/iniciante/analise-dados-titanic)
 > Análise exploratória dos dados do Titanic com foco em variáveis que influenciam a sobrevivência.
 
 - Pandas, Matplotlib, Seaborn
@@ -27,7 +27,7 @@ Este repositório organiza meus principais projetos, divididos por níveis de co
 
 ## 🟡 Projetos Intermediários
 
-- [⚙️ ETL com API e PostgreSQL](projetos/intermediario/etl-api-postgresql/README.md)
+- [⚙️ ETL com API e PostgreSQL](projetos/intermediario/etl-api-postgresql)
 > Pipeline completo que extrai dados de uma API, transforma com Pandas e armazena no PostgreSQL.
 
 - Python, Requests, Pandas
@@ -36,7 +36,7 @@ Este repositório organiza meus principais projetos, divididos por níveis de co
 
 ---
 
-### 🧩 [Integração Sankhya + Power BI (Simulação)](https://github.com/Lcjuniornet/data-integration-powerbi-sankhya)
+### 🧩 [Integração Sankhya + Power BI (Simulação)](projetos\intermediario\integracao-sankhya-powerbi)
 > Simulação de extração de dados de um ERP para construção de dashboards operacionais.
 
 - SQL para extração de dados
