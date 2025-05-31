@@ -6,9 +6,9 @@ Este repositório organiza meus principais projetos, divididos por níveis de co
 
 ---
 
-## 🟢 Projetos Iniciais
+## 👶 Projetos Iniciantes
 
-### 📊 [Dashboard de Vendas com Power BI](https://github.com/Lcjuniornet/data-dashboard-vendas-powerbi)
+- [📊 Dashboard de Vendas com Power BI](projetos/iniciante/dashboard-powerbi-vendas/README.md)
 > Visualização interativa de vendas por região, produto e vendedor. Base fictícia simulando uma empresa comercial.
 
 - Power BI, DAX, Modelagem de dados
@@ -16,8 +16,7 @@ Este repositório organiza meus principais projetos, divididos por níveis de co
 - Excel como fonte de dados
 
 ---
-
-### 🚢 [Análise de Dados do Titanic](https://github.com/Lcjuniornet/data-eda-analise-titanic)
+- [🚢 Análise dos Dados do Titanic](projetos/iniciante/analise-dados-titanic/README.md)
 > Análise exploratória dos dados do Titanic com foco em variáveis que influenciam a sobrevivência.
 
 - Pandas, Matplotlib, Seaborn
@@ -28,7 +27,7 @@ Este repositório organiza meus principais projetos, divididos por níveis de co
 
 ## 🟡 Projetos Intermediários
 
-### 🔄 [ETL com API e PostgreSQL](https://github.com/Lcjuniornet/data-etl-api-python-postgresql)
+- [⚙️ ETL com API e PostgreSQL](projetos/intermediario/etl-api-postgresql/README.md)
 > Pipeline completo que extrai dados de uma API, transforma com Pandas e armazena no PostgreSQL.
 
 - Python, Requests, Pandas
