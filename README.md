@@ -36,7 +36,7 @@ Este repositório organiza meus principais projetos, divididos por níveis de co
 
 ---
 
-### 🧩 [Integração Sankhya + Power BI (Simulação)](projetos\intermediario\integracao-sankhya-powerbi)
+- [⚙️Integração Sankhya + Power BI (Simulação)](projetos\intermediario\integracao-sankhya-powerbi)
 > Simulação de extração de dados de um ERP para construção de dashboards operacionais.
 
 - SQL para extração de dados
