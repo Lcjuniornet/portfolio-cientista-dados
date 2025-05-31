@@ -57,7 +57,7 @@ Este repositório organiza meus principais projetos, divididos por níveis de co
 
 ---
 
-### ☁️ [Data Lake Simulado com Spark e MinIO](https://github.com/Lcjuniornet/data-lake-spark-simulado](https://github.com/Lcjuniornet/datalake-spark-minio).
+### ☁️ [Data Lake Simulado com Spark e MinIO](https://github.com/Lcjuniornet/datalake-spark-minio).
 > Simulação de um ambiente de Data Lake local, com Spark processando dados armazenados em MinIO (S3).
 
 - PySpark, MinIO, Docker
